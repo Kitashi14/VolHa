@@ -8,6 +8,7 @@ mpHands = mp.solutions.hands #extracts the hands class from the module
 hands = mpHands.Hands()  #creates an object for storing hands
 mpDraw = mp.solutions.drawing_utils  #for drawing points & lines between points
 
+
 pTime =0
 cTime = 0
 
