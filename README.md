@@ -1,3 +1,3 @@
 # VolHa 
 
-For controlling volume of device
+For controlling volume of device using python openCV
